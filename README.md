@@ -1,4 +1,4 @@
 # My_Diary-Demo
-My First Repo.
+My First Reposetry.
 <br>
 Auther - Suraj Kumar
