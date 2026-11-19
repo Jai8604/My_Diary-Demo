@@ -3,13 +3,18 @@
     margin: 0%;
     font-family: Arial, Helvetica, sans-serif;
     font-width: 25px;
+
 }
 
 #Logo-div{
     width: 100%;
-    min-height: 50px;
+    min-height: 100px;
     background-color: rgb(9, 48, 134);
     padding-left: 5%;
-    line-height: 50px;
+    line-height: 60px;
 
+}
+
+#content{
+    background-color: aquamarine;
 }
