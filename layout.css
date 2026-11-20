@@ -8,13 +8,19 @@
 
 #Logo-div{
     width: 100%;
-    min-height: 100px;
+    line-height: 30px;
     background-color: rgb(9, 48, 134);
-    padding-left: 5%;
-    line-height: 60px;
-
+    padding-left: 5px;  
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
-#content{
-    background-color: aquamarine;
+.intro {
+text-transform: capitalize;
+}
+
+.content{
+    background-color: rgb(47, 70, 62);
+    max-height: 60px;
 }
